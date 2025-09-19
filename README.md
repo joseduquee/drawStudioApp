@@ -15,9 +15,10 @@ Permite crear, abrir y modificar lienzos, con guardado automático en el servido
 
 ## Instalación y ejecución local
 
-1. **Clonar el repositorio**: git clone https://github.com/joseduquee/drawStudioApp
-2. **npm install**
-3. **npm run dev**
+1. Clonar el repositorio: git clone https://github.com/joseduquee/drawStudioApp
+2. cd .\drawStudioApp\
+3. npm install
+4. npm run dev
 
 Abre [http://localhost:3000](http://localhost:3000)
 
