@@ -80,6 +80,14 @@ Internamente usa **OpenAI** (si hay API key) o un **mock** integrado.
   }
   ```
 
+## Funcinalidad de recientes
+
+- **Recientes**  
+  El home muestra una lista de documentos abiertos/creados recientemente (persistidos en `localStorage`).  
+  - Se guardan hasta 6 IDs.  
+  - Se muestran como *badges* clicables para abrirlos con un solo click.  
+  - Se actualizan automáticamente al crear o abrir un documento.  
+
 ## Funcionalidades de IA
 
 - **Generación de formas desde texto**  
